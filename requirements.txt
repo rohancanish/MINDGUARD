@@ -1,0 +1,4 @@
+gradio
+bitsandbytes
+transformers
+torch
