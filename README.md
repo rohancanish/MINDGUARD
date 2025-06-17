@@ -61,24 +61,28 @@ This Space automatically runs:
 ```bash
 app.py
 
+---
 
 ## 🛡️ Disclaimer
+---
 
-MindGuard is **not a substitute for professional mental health care**. If you are in crisis or need help, please reach out to certified professionals or hotlines in your region.
+MindGuard is **not a substitute for professional mental health care**.  
+If you are in crisis or need help, please reach out to certified professionals or hotlines in your region.
 
 ---
 
 ## 📜 License
+---
 
 MIT License
 
 ---
 
 ## 🙌 Acknowledgements
+---
 
-* [Unsloth](https://huggingface.co/unsloth)
-* [Serenity AI Therapist](https://huggingface.co/mthabet00/serenity-AI_Therapist)
+* [Unsloth](https://huggingface.co/unsloth)  
+* [Serenity AI Therapist](https://huggingface.co/mthabet00/serenity-AI_Therapist)  
 * Hugging Face 🤗
 
-```
-```
+---
