@@ -42,47 +42,38 @@ MindGuard is an empathetic, AI-powered mental health companion built using large
 
 ---
 
-## 🔍 How It Works
+# How It Works
+---
 
 MindGuard uses:
 
-- **Base Model**: `unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit`
-- **PEFT Fine-Tuned Model**: `mthabet00/serenity-AI_Therapist`  
-  (Using [PEFT](https://huggingface.co/docs/peft) for efficient, low-resource fine-tuning)
+- **Base Model:** `unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit`  
+- **PEFT Fine-Tuned Model:** `mthabet00/serenity-AI_Therapist`  
+  (Using PEFT for efficient, low-resource fine-tuning)
 
 The chatbot is deployed using **Gradio**, offering a simple and safe UI for users to type their thoughts and receive emotionally aware replies.
 
+# 🚀 Running the Project
 ---
-
-## 🚀 Running the Project
 
 This Space automatically runs:
 
-```bash
-app.py
+- `app.py`
 
----
-
-## 🛡️ Disclaimer
+# 🛡️ Disclaimer
 ---
 
 MindGuard is **not a substitute for professional mental health care**.  
 If you are in crisis or need help, please reach out to certified professionals or hotlines in your region.
 
----
-
-## 📜 License
+# 📜 License
 ---
 
 MIT License
 
+# 🙌 Acknowledgements
 ---
 
-## 🙌 Acknowledgements
----
-
-* [Unsloth](https://huggingface.co/unsloth)  
-* [Serenity AI Therapist](https://huggingface.co/mthabet00/serenity-AI_Therapist)  
-* Hugging Face 🤗
-
----
+- [Unsloth](https://huggingface.co/unsloth)  
+- [Serenity AI Therapist](https://huggingface.co/mthabet00/serenity-AI_Therapist)  
+- Hugging Face 🤗
