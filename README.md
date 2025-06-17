@@ -1,11 +1,10 @@
 ---
-license: cc-by-nc-4.0
+license: mit
 language:
-- en
+  - en
 base_model:
-- unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit
----
----
+  - unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit
+
 title: 🧠 MindGuard - Mental Health AI Chatbot
 emoji: 🧘‍♂️
 colorFrom: pink
@@ -14,7 +13,6 @@ sdk: docker
 sdk_version: "1.0"
 app_file: app.py
 pinned: false
-license: mit
 models:
   - unsloth/llama-3.2-3b-instruct-unsloth-bnb-4bit
   - mthabet00/serenity-AI_Therapist
@@ -29,6 +27,3 @@ tags:
   - unsloth
 gpu: true
 ---
-
-
-
