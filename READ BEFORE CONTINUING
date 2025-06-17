@@ -1,0 +1,2 @@
+Try to Use Google Colab if errors persist since bitsandbytes are to be used which requires colab , bitsandbytes are used by the model .
+ Just install the requirements in colab and execute the app.py there .
